@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../my-portofolio"
+		},
+		{
+			"path": "../test-genios"
+		},
+		{
+			"path": "../../NextJs/my-portofolio"
+		}
+	],
+    "settings": {}
+}
